@@ -8,8 +8,8 @@ Practising analytical project
 
 ### Airbnb:
 * Done:
-* major differences in the Airbnb market between cities
+  major differences in the Airbnb market between cities
 * Need to figure out:
-* Prices which are in local currency, attributes have the biggest influence in price, trends or seasonality in the review data and which city offers a better value for travel.
+  Prices which are in local currency, attributes have the biggest influence in price, trends or seasonality in the review data and which city offers a better value for travel.
 
 
