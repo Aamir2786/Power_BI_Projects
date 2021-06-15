@@ -4,7 +4,7 @@ Implementing analytical project
 ## Maven Crowdfunding Challenge
 
 ### About the dataset 
-- We’re looking at over 375,000 projects started on Kickstarter [https://www.mavenanalytics.io/blog/maven-crowdfunding-challenge](url)
+- We’re looking at over 375,000 projects started on Kickstarter ([https://www.mavenanalytics.io/blog/maven-crowdfunding-challenge](url))
 - Each record represents one project
 - Records contain details about the project category, deadline date, amount pledged, number of backers, and more!
 
