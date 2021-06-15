@@ -1,5 +1,5 @@
 # Power_BI_Projects
-Practising analytical project
+Implementing analytical project
 
 ## Maven Vacation Challenge
 
